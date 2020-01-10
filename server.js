@@ -1,4 +1,4 @@
-const io = require('socket.io')(3000);
+const io = require('socket.io')(process.env.PORT);
 //creates server at port 3000
 
 const users = {}
