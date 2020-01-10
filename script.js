@@ -1,5 +1,5 @@
 //client and server is completely separated since they are on separate ports
-const socket = io('https://chatterboxe.herokuapp.com/');
+const socket = io('http://chatterboxe.herokuapp.com/');
 //this determines where our server is being hosted
 
 const messageForm = document.getElementById('send-container');
