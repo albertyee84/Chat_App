@@ -9,3 +9,5 @@ Install some dependencies
 -In package.json, add a script:
     "devStart": "nodemon server.js"
     This script will run the server.js file whenever you type in npm run devStart in console.
+
+https://www.youtube.com/watch?v=rxzOqP9YwmM
